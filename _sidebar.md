@@ -1,7 +1,7 @@
 - HTML
-  - [概述](./docs/html/概述.md)
-  - [语法](./docs/html/html语法.md)
-  - [文档与元素总览](./docs/html/html文档与元素总览.md)
+  - [概述](./docs/html/html_summary.md)
+  - [语法](./docs/html/html_syntax.md)
+  - [文档与元素总览](./docs/html/html_element.md)
   - [dom]
   - [document对象]
 - [CSS]
