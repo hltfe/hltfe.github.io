@@ -3,6 +3,7 @@
   - [语法](./docs/html/html_syntax.md)
   - [文档与元素总览](./docs/html/html_element.md)
   - [dom]
+    - [dom event]
   - [document对象]
   - [template标签]
 - [CSS]
