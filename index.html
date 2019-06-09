@@ -11,7 +11,6 @@
 </head>
 <body>
   <div id="app">
-    <div id="gitalk-container"></div>
   </div>
   <script>
     window.$docsify = {
@@ -40,19 +39,18 @@
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
   <script>
     var gitalk = new Gitalk({
         clientID: 'c6656e6691eda2893e2f',
         clientSecret: '9b1abb6cd1f8799b058604b62b9eeb58145e70f6',
-        repo: 'hltfe.github.io/issues',
+        repo: 'hltfe.github.io',
         owner: 'hltfe',
         admin: ['hltfe'],
         id: location.pathname,      // Ensure uniqueness and length less than 50
         distractionFreeMode: false  // Facebook-like distraction free mode
       })
-
-      gitalk.render('gitalk-container')
   </script>
 </body>
 </html>
