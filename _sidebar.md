@@ -8,7 +8,7 @@
   - [template标签]
 - [CSS]
 - JavaScript
-  - [JS基础]
+  - [JS基础](./docs/javascript/base.md)
   - [模块](./docs/javascript/module.md)
   - [内存](./docs/javascript/memory.md)
 - Vue
