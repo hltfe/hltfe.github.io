@@ -1,11 +1,14 @@
 - HTML
   - [概述](./docs/html/html_summary.md)
+  - [xml概览](./docs/html/xml.md)
   - [语法](./docs/html/html_syntax.md)
   - [文档与元素总览](./docs/html/html_element.md)
   - [dom]
     - [dom event]
   - [document对象]
   - [template标签]
+- SVG
+  - [概述]
 - [CSS]
 - JavaScript
   - [JS基础](./docs/javascript/base.md)
@@ -20,5 +23,8 @@
   - [架构体系]
   - [插件源码]
   - [自定义插件]
+- 数学之美
+  - [复数]
+  - [矩阵代数]
 - [书籍](./docs/books.md)
 - [杂文](./docs/essay.md)
