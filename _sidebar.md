@@ -40,6 +40,10 @@
   - [JS基础](./docs/javascript/base.md)
   - [模块](./docs/javascript/module.md)
   - [内存](./docs/javascript/memory.md)
+- NodeJs
+  - [简介](./docs/nodejs/1_brief.md)
+  - [安装配置](./docs/nodejs/2_install.md)
+  - [创建第一个应用](./docs/nodejs/3_firstapp.md)
 - Vue
   - [核心原理](./docs/vue/core.md)
   - [v-slot]
